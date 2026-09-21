@@ -3,285 +3,279 @@
   <!-- Core Hub Pages -->
   <url>
     <loc>https://prisme-ia.fr/</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://prisme-ia.fr/outils</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://prisme-ia.fr/tutos</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://prisme-ia.fr/prompts</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://prisme-ia.fr/comparatifs</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://prisme-ia.fr/bons-plans</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://prisme-ia.fr/blog</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://prisme-ia.fr/newsletter</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 
-  <!-- Categories -->
+  <!-- Categories (10, matching src/data/categories.ts) -->
   <url>
-    <loc>https://prisme-ia.fr/outils/categorie/redaction-texte</loc>
-    <lastmod>2024-09-20</lastmod>
+    <loc>https://prisme-ia.fr/outils/categorie/texte</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prisme-ia.fr/outils/categorie/generation-image</loc>
-    <lastmod>2024-09-20</lastmod>
+    <loc>https://prisme-ia.fr/outils/categorie/image</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prisme-ia.fr/outils/categorie/video-animation</loc>
-    <lastmod>2024-09-20</lastmod>
+    <loc>https://prisme-ia.fr/outils/categorie/video</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prisme-ia.fr/outils/categorie/audio-voix</loc>
-    <lastmod>2024-09-20</lastmod>
+    <loc>https://prisme-ia.fr/outils/categorie/audio</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prisme-ia.fr/outils/categorie/code-developpement</loc>
-    <lastmod>2024-09-20</lastmod>
+    <loc>https://prisme-ia.fr/outils/categorie/seo</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prisme-ia.fr/outils/categorie/productivite-automatisation</loc>
-    <lastmod>2024-09-20</lastmod>
+    <loc>https://prisme-ia.fr/outils/categorie/marketing</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prisme-ia.fr/outils/categorie/analyse-donnees</loc>
-    <lastmod>2024-09-20</lastmod>
+    <loc>https://prisme-ia.fr/outils/categorie/productivite</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://prisme-ia.fr/outils/categorie/presentations</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://prisme-ia.fr/outils/categorie/chatbots</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://prisme-ia.fr/outils/categorie/automatisation</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Tools -->
+  <!-- Tools (10, matching src/data/tools.ts) -->
   <url>
     <loc>https://prisme-ia.fr/outils/revid-ai</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://prisme-ia.fr/outils/heygen</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://prisme-ia.fr/outils/cursor-editor</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://prisme-ia.fr/outils/claude-3-5-sonnet</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://prisme-ia.fr/outils/mistral-le-chat</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://prisme-ia.fr/outils/midjourney-v6</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://prisme-ia.fr/outils/elevenlabs</loc>
-    <lastmod>2024-09-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://prisme-ia.fr/outils/notion-ia</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://prisme-ia.fr/outils/runway-gen3</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prisme-ia.fr/outils/chatgpt-plus</loc>
-    <lastmod>2024-09-20</lastmod>
+    <loc>https://prisme-ia.fr/outils/flux-1-schnell</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://prisme-ia.fr/outils/perplexity-ai</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Tutorials -->
+  <!-- Tutorials (3, matching src/data/tutorials.ts) -->
   <url>
     <loc>https://prisme-ia.fr/tutos/creer-un-moteur-rag-souverain-avec-mistral</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
   </url>
   <url>
     <loc>https://prisme-ia.fr/tutos/comment-creer-une-video-avec-ia-revid-heygen</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://prisme-ia.fr/tutos/generer-des-images-photorealistes-avec-midjourney-v6</loc>
-    <lastmod>2024-09-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://prisme-ia.fr/tutos/automatiser-son-support-client-avec-gpt4-et-make</loc>
-    <lastmod>2024-09-20</lastmod>
+    <loc>https://prisme-ia.fr/tutos/creer-des-visuels-photorealistes-avec-midjourney-et-flux</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
   </url>
 
-  <!-- Prompts -->
+  <!-- Prompts (4, matching src/data/prompts.ts) -->
   <url>
-    <loc>https://prisme-ia.fr/prompts/prompt-audit-code-securite-python-typescript</loc>
-    <lastmod>2024-09-20</lastmod>
+    <loc>https://prisme-ia.fr/prompts/prompt-audit-semantique-page-web</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://prisme-ia.fr/prompts/prompt-script-video-court-tiktok-reels</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://prisme-ia.fr/prompts/prompt-redaction-article-seo-longue-traine</loc>
-    <lastmod>2024-09-20</lastmod>
+    <loc>https://prisme-ia.fr/prompts/prompt-shooting-photo-produit-minimaliste</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://prisme-ia.fr/prompts/prompt-analyse-financiere-compte-resultat</loc>
-    <lastmod>2024-09-20</lastmod>
+    <loc>https://prisme-ia.fr/prompts/prompt-synthese-analytique-documents-complexes</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
-  <!-- Comparisons -->
-  <url>
-    <loc>https://prisme-ia.fr/comparatifs/mistral-large-2-vs-claude-3-5-sonnet</loc>
-    <lastmod>2024-09-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  <!-- Comparisons (3, matching src/data/comparisons.ts) -->
   <url>
     <loc>https://prisme-ia.fr/comparatifs/revid-ai-vs-heygen-quelle-ia-video-choisir</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prisme-ia.fr/comparatifs/cursor-vs-github-copilot-meilleur-assistant-code</loc>
-    <lastmod>2024-09-20</lastmod>
+    <loc>https://prisme-ia.fr/comparatifs/mistral-large-2-vs-claude-3-5-sonnet</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prisme-ia.fr/comparatifs/midjourney-v6-vs-dall-e-3-comparatif-image</loc>
-    <lastmod>2024-09-20</lastmod>
+    <loc>https://prisme-ia.fr/comparatifs/midjourney-v6-vs-flux-1-schnell</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Deals -->
+  <!-- Deals (4, matching src/data/deals.ts) -->
   <url>
     <loc>https://prisme-ia.fr/bons-plans/revid-ai-reduction-20-pourcent</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://prisme-ia.fr/bons-plans/cursor-pro-reduction-etudiants</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://prisme-ia.fr/bons-plans/elevenlabs-premier-mois-a-un-dollar</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://prisme-ia.fr/bons-plans/mistral-ai-credits-api-developpeurs</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Blog Articles -->
+  <!-- Blog Articles (2, matching src/data/articles.ts) -->
   <url>
     <loc>https://prisme-ia.fr/blog/souverainete-ia-europe-bataille-modeles-2024</loc>
-    <lastmod>2024-09-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://prisme-ia.fr/blog/ai-act-guide-pratique-entreprises-francaises</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://prisme-ia.fr/blog/droit-auteur-ia-generative-tribunaux-francais</loc>
-    <lastmod>2024-09-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://prisme-ia.fr/blog/retour-experience-migration-copilot-vers-cursor</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
