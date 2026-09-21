@@ -1,0 +1,8 @@
+# Robots.txt for Prisme IA (https://prisme-ia.fr)
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /*?search=*
+Disallow: /*?filter=*
+
+Sitemap: https://prisme-ia.fr/sitemap.xml

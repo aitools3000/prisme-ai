@@ -1,0 +1,6 @@
+{
+  "name": "Prisme IA",
+  "description": "Le portail et répertoire francophone de référence de l'intelligence artificielle : outils vérifiés, tutoriels pratiques, prompts et comparatifs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
